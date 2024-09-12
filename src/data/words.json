@@ -1,0 +1,54 @@
+{
+  "English": [
+    {
+      "word": "the",
+      "count": 1241950,
+      "version_es:es": "el"
+    },
+    {
+      "word": "be",
+      "count": 1456241,
+      "version_es:es": "ser"
+    },
+    {
+      "word": "to",
+      "count": 1045283,
+      "version_es:es": "a"
+    },
+    {
+      "word": "of",
+      "count": 943449,
+      "version_es:es": "de"
+    },
+    {
+      "word": "and",
+      "count": 846111,
+      "version_es:es": "y"
+    },
+    {
+      "word": "a",
+      "count": 744511,
+      "version_es:es": "un"
+    },
+    {
+      "word": "in",
+      "count": 644449,
+      "version_es:es": "en"
+    },
+    {
+      "word": "that",
+      "count": 563111,
+      "version_es:es": "que"
+    },
+    {
+      "word": "is",
+      "count": 524511,
+      "version_es:es": "es"
+    },
+    {
+      "word": "for",
+      "count": 484449,
+      "version_es:es": "para"
+    }
+  ]
+}

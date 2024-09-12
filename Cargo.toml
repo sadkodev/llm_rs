@@ -1,0 +1,9 @@
+[package]
+name = "llm_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.40.0", features = ["full"] }
+ollama-rs = {version = "0.2.1", features = ["stream"]}
+tokio-stream = "0.1.16"
